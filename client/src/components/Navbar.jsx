@@ -20,7 +20,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between">
           <div className="flex items-center justify-center">
             <a className="text-2xl font-bold" href="/">
-              KCT Bankers
+              MKM Bankers
             </a>
           </div>
           <div className="flex items-center">

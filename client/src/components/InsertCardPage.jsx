@@ -33,7 +33,7 @@ const InsertCardPage = ({ handleAccountNumber }) => {
                 }}
                 className='p-10 flex flex-col items-center justify-center'
                 >
-                    <h2 className="text-4xl font-bold mb-12 text-white">Wecome to KCT Bankers</h2>
+                    <h2 className="text-4xl font-bold mb-12 text-white">Welcome to MKM Bankers</h2>
                     <h2 className="text-2xl font-bold mb-4" 
                     style={{
                         color: "#D89216",
